@@ -1,0 +1,17 @@
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\bin\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.exe
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\bin\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.deps.json
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\bin\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.runtimeconfig.json
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\bin\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\bin\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.pdb
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.csproj.AssemblyReference.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.Tablero.resources
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.csproj.GenerateResource.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.AssemblyInfoInputs.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.AssemblyInfo.cs
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\refint\NumRotMetroInterfazDeUsuario.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.pdb
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\NumRotMetroInterfazDeUsuario.genruntimeconfig.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetroInterfazDeUsuario\obj\Debug\net7.0-windows\ref\NumRotMetroInterfazDeUsuario.dll
