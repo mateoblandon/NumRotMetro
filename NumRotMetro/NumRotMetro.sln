@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumRotMetroInterfazDeUsuario", "NumRotMetroInterfazDeUsuario\NumRotMetroInterfazDeUsuario.csproj", "{04199C8E-86E0-452F-850D-15CFDA910066}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumRotMetroInterazDeUsuario", "NumRotMetroInterazDeUsuario\NumRotMetroInterazDeUsuario.csproj", "{59F96147-759A-4089-9DDE-70D0321BD947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumRotMetroModelos", "NumRotMetroModelos\NumRotMetroModelos.csproj", "{8232287C-4F62-4DC9-A0D5-8C97780FB09F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumRotMetroInterfaces", "NumRotMetroInterfaces\NumRotMetroInterfaces.csproj", "{DE2991A0-33AD-4652-AD71-E9DD637E441E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumRotMetroAyudanteDeConexionABaseDeDatos", "NumRotMetroAyudanteDeConexionABaseDeDatos\NumRotMetroAyudanteDeConexionABaseDeDatos.csproj", "{8AAAB883-1D79-481E-81C4-6B2FD2B6B7A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +17,27 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{04199C8E-86E0-452F-850D-15CFDA910066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04199C8E-86E0-452F-850D-15CFDA910066}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04199C8E-86E0-452F-850D-15CFDA910066}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04199C8E-86E0-452F-850D-15CFDA910066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F96147-759A-4089-9DDE-70D0321BD947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F96147-759A-4089-9DDE-70D0321BD947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F96147-759A-4089-9DDE-70D0321BD947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F96147-759A-4089-9DDE-70D0321BD947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8232287C-4F62-4DC9-A0D5-8C97780FB09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8232287C-4F62-4DC9-A0D5-8C97780FB09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8232287C-4F62-4DC9-A0D5-8C97780FB09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8232287C-4F62-4DC9-A0D5-8C97780FB09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2991A0-33AD-4652-AD71-E9DD637E441E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2991A0-33AD-4652-AD71-E9DD637E441E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2991A0-33AD-4652-AD71-E9DD637E441E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2991A0-33AD-4652-AD71-E9DD637E441E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAAB883-1D79-481E-81C4-6B2FD2B6B7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAAB883-1D79-481E-81C4-6B2FD2B6B7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAAB883-1D79-481E-81C4-6B2FD2B6B7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAAB883-1D79-481E-81C4-6B2FD2B6B7A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {205057B2-5AEE-4610-BB1D-3DD04A5B7A2E}
+		SolutionGuid = {CCC83983-9C1F-4334-9D72-4F93B14F364E}
 	EndGlobalSection
 EndGlobal
