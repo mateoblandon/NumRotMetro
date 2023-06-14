@@ -162,26 +162,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NumRotMetroAyudanteDeConexionABaseDeDatos.dll" size="6144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NumRotMetroAyudanteDeConexionABaseDeDatos.dll" size="7168">
       <assemblyIdentity name="NumRotMetroAyudanteDeConexionABaseDeDatos" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RtsXfwYdxqT5+aerD3+rrnZQy+Hhp9LCvVeSANlx+g8=</dsig:DigestValue>
+        <dsig:DigestValue>0so96plCPUEqr2nUQ9Ej8JoV/oArThIqIzh67JwYo+c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NumRotMetroInterazDeUsuario.exe" size="56296">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NumRotMetroInterazDeUsuario.exe" size="55272">
       <assemblyIdentity name="NumRotMetroInterazDeUsuario" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1xJzDXVXv6BvBd1QfPlMVbj8TKL5Bg/lqO7f9HrjDvQ=</dsig:DigestValue>
+        <dsig:DigestValue>NPxzCxAlwE+eh1iyhP4W+rmRCLeCtbNLNVE3F0w/lfQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

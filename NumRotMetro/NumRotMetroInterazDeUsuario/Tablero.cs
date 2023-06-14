@@ -27,14 +27,8 @@ namespace NumRotMetroInterazDeUsuario
     {
       AccesoADatos accesoADatos = new AccesoADatos();
       registros = accesoADatos.ObtenerRegistros();
-      documentoEstados = registros.Select(x => x.documentoEstadoDIAN).Distinct().ToList();
-
-      documentoEstadosDiccionario = new Dictionary<string, int>();
-      foreach (string documentoEstado in documentoEstados)
-      {
-        int totalDocumentosEnEstadoX = registros.Where(x => x.documentoEstadoDIAN == documentoEstado).ToList().Count;
-        documentoEstadosDiccionario.Add(documentoEstado, totalDocumentosEnEstadoX);
-      }
+      documentoEstados = accesoADatos.ObtenerDocumentoEstados(registros);
+      documentoEstadosDiccionario = accesoADatos.AsignarDocumentoEstadosConSuCantidad(registros, documentoEstados);
     }
 
     /// <summary>
@@ -66,6 +60,11 @@ namespace NumRotMetroInterazDeUsuario
       GraficarDatos();
     }
 
+    /// <summary>
+    /// Carga inicial de la aplicación.
+    /// </summary>
+    /// <param name="sender"></param>
+    /// <param name="e"></param>
     private void tableroForm_Load(object sender, EventArgs e)
     {
       EstablecerDatos();
