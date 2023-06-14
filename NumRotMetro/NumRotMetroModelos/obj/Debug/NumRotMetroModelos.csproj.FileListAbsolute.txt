@@ -1,0 +1,6 @@
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroModelos\bin\Debug\NumRotMetroModelos.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroModelos\bin\Debug\NumRotMetroModelos.pdb
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroModelos\obj\Debug\NumRotMetroModelos.csproj.AssemblyReference.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroModelos\obj\Debug\NumRotMetroModelos.csproj.CoreCompileInputs.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroModelos\obj\Debug\NumRotMetroModelos.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroModelos\obj\Debug\NumRotMetroModelos.pdb

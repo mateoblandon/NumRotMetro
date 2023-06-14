@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NumRotMetroModelos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -14,6 +15,6 @@ namespace NumRotMetroInterfaces
     /// <summary>
     /// Método para ejecutar consulta a base de datos y obetener registros.
     /// </summary>
-    void ObtenerRegistros();
+    List<RegistroDeBaseDeDatos> ObtenerRegistros();
   }
 }

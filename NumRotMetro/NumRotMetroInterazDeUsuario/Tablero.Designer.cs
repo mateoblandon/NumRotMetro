@@ -32,6 +32,10 @@
       this.NumRotMetroLabel = new System.Windows.Forms.Label();
       this.ActualizarButton = new System.Windows.Forms.Button();
       this.numRotMetroPieChart = new LiveCharts.WinForms.PieChart();
+      this.fechaYHoralabel = new System.Windows.Forms.Label();
+      this.totalDeDocumentosLabel = new System.Windows.Forms.Label();
+      this.pictureBox1 = new System.Windows.Forms.PictureBox();
+      ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
       this.SuspendLayout();
       // 
       // NumRotMetroLabel
@@ -54,6 +58,7 @@
       this.ActualizarButton.TabIndex = 1;
       this.ActualizarButton.Text = "Actualizar";
       this.ActualizarButton.UseVisualStyleBackColor = true;
+      this.ActualizarButton.Click += new System.EventHandler(this.ActualizarButton_Click);
       // 
       // numRotMetroPieChart
       // 
@@ -63,11 +68,41 @@
       this.numRotMetroPieChart.TabIndex = 2;
       this.numRotMetroPieChart.Text = "NumRotMetroPieChart";
       // 
+      // fechaYHoralabel
+      // 
+      this.fechaYHoralabel.AutoSize = true;
+      this.fechaYHoralabel.Location = new System.Drawing.Point(708, 29);
+      this.fechaYHoralabel.Name = "fechaYHoralabel";
+      this.fechaYHoralabel.Size = new System.Drawing.Size(101, 20);
+      this.fechaYHoralabel.TabIndex = 3;
+      this.fechaYHoralabel.Text = "Fehca y hora";
+      // 
+      // totalDeDocumentosLabel
+      // 
+      this.totalDeDocumentosLabel.AutoSize = true;
+      this.totalDeDocumentosLabel.Location = new System.Drawing.Point(712, 70);
+      this.totalDeDocumentosLabel.Name = "totalDeDocumentosLabel";
+      this.totalDeDocumentosLabel.Size = new System.Drawing.Size(158, 20);
+      this.totalDeDocumentosLabel.TabIndex = 4;
+      this.totalDeDocumentosLabel.Text = "Total de docuemntos";
+      // 
+      // pictureBox1
+      // 
+      this.pictureBox1.Image = global::NumRotMetroInterazDeUsuario.Properties.Resources.Logovsdc2;
+      this.pictureBox1.Location = new System.Drawing.Point(24, 20);
+      this.pictureBox1.Name = "pictureBox1";
+      this.pictureBox1.Size = new System.Drawing.Size(138, 29);
+      this.pictureBox1.TabIndex = 5;
+      this.pictureBox1.TabStop = false;
+      // 
       // tableroForm
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(942, 506);
+      this.Controls.Add(this.pictureBox1);
+      this.Controls.Add(this.totalDeDocumentosLabel);
+      this.Controls.Add(this.fechaYHoralabel);
       this.Controls.Add(this.numRotMetroPieChart);
       this.Controls.Add(this.ActualizarButton);
       this.Controls.Add(this.NumRotMetroLabel);
@@ -77,6 +112,8 @@
       this.Name = "tableroForm";
       this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
       this.Text = "Tablero";
+      this.Load += new System.EventHandler(this.tableroForm_Load);
+      ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
       this.ResumeLayout(false);
       this.PerformLayout();
 
@@ -87,6 +124,9 @@
     private System.Windows.Forms.Label NumRotMetroLabel;
     private System.Windows.Forms.Button ActualizarButton;
     private LiveCharts.WinForms.PieChart numRotMetroPieChart;
+    private System.Windows.Forms.Label fechaYHoralabel;
+    private System.Windows.Forms.Label totalDeDocumentosLabel;
+    private System.Windows.Forms.PictureBox pictureBox1;
   }
 }
 

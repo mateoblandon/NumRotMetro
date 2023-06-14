@@ -44,5 +44,11 @@
     <Compile Include="IOperacionesConDatos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NumRotMetroModelos\NumRotMetroModelos.csproj">
+      <Project>{8232287C-4F62-4DC9-A0D5-8C97780FB09F}</Project>
+      <Name>NumRotMetroModelos</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

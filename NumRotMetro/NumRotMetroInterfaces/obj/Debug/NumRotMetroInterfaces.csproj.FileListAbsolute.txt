@@ -1,0 +1,9 @@
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\bin\Debug\NumRotMetroInterfaces.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\bin\Debug\NumRotMetroInterfaces.pdb
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\obj\Debug\NumRotMetroInterfaces.csproj.AssemblyReference.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\obj\Debug\NumRotMetroInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\obj\Debug\NumRotMetroInterfaces.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\obj\Debug\NumRotMetroInterfaces.pdb
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\bin\Debug\NumRotMetroModelos.dll
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\bin\Debug\NumRotMetroModelos.pdb
+C:\Users\blandonm\Documents\Proyecto NumRotMetro\NumRotMetro\NumRotMetro\NumRotMetroInterfaces\obj\Debug\NumRotMetroInterfaces.csproj.CopyComplete

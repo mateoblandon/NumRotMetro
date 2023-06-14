@@ -27,5 +27,9 @@ namespace NumRotMetroModelos
         /// Fecha y hora del último procesamiento.
         /// </summary>
         public DateTime ultimoAcceso { get; set; }
+        /// <summary>
+        /// Estado del documento ante la DIAN.
+        /// </summary>
+        public string documentoEstadoDIAN { get; set; }
     }
 }
